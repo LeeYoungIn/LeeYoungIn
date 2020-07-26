@@ -21,25 +21,25 @@ Web & Mobile Application Develpoer
 
 Web
 ---
-1. React
-  - 창업 회사 자사 플랫폼 개발중
-2. Vue
-  - 사내 출퇴근 관리 시스템
-  - 스마트 팩토리
-3. dJango
-  - 스마트 아카데미 관리자 및 클라이언트 홈페이지
-  - 갤러리 홈페이지
-  - 인터랙티브 웹
-  - 성경필사 웹
-4. JSP
-  - 대학교 SNS
-  - 봉사활동 모임 중개 플랫폼
+- React
+  * 창업 회사 자사 플랫폼 개발중
+- Vue
+  * 사내 출퇴근 관리 시스템
+  * 스마트 팩토리
+- dJango
+  * 스마트 아카데미 관리자 및 클라이언트 홈페이지
+  * 갤러리 홈페이지
+  * 인터랙티브 웹
+  * 성경필사 웹
+- JSP
+  * 대학교 SNS
+  * 봉사활동 모임 중개 플랫폼
 
 Server
 ------
-1. AWS
-2. Serverless
-3. Node
+- AWS
+- Serverless
+- Node
 
 React Native
 ------------
@@ -47,9 +47,9 @@ React Native
   - 피트러스
     * [iOS](https://apps.apple.com/kr/app/fitrus/id1415625309)
     * [Android](https://play.google.com/store/apps/details?id=com.osd.fitrus)
-  - [피트러스 G]
+  - 피트러스 G
     * [Android](https://play.google.com/store/apps/details?id=com.fitrusbg)
-  - [피트러스 S]
+  - 피트러스 S
     * [Android](https://play.google.com/store/apps/details?id=com.fitrusbs)
 
 iOS
